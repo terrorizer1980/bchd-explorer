@@ -17,7 +17,7 @@
     "grpc-bchrpc-web": "^0.15.0",
     "jest": "^25.5.4",
     "pretty-bytes": "^5.4.1",
-    "satoshi-bitcoin": "^1.0.4",
+    "satoshi-bitcoin": "^1.0.5",
     "vue": "^2.6.11",
     "vue-router": "^3.4.3"
   },
