@@ -12,7 +12,7 @@
   "dependencies": {
     "bchaddrjs-slp": "^0.2.12",
     "big.js": "^5.2.2",
-    "core-js": "^3.6.5",
+    "core-js": "^3.20.1",
     "flush-promises": "^1.0.2",
     "grpc-bchrpc-web": "^0.15.0",
     "jest": "^25.5.4",
